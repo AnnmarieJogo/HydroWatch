@@ -2,7 +2,7 @@
 #include <WiFi.h>
 #include <WebServer.h>
 
-const char* defaultSSID = "Zachary punya hotspot 🌟";
+const char* defaultSSID = "Zachary punya hotspot ";
 const char* defaultPassword = "zachary123";
 
 WiFiServer server(80);
